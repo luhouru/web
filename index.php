@@ -43,7 +43,7 @@
 				<li><a href="/contact.php">Contact</a></li>
 				<li class="social">
 					<!-- Social -->
-					<a href="http://www.facebook.com/cel2971" target="_blank" class="poshytip  facebook" title="Facebook"></a>
+					<a href="http://www.facebook.com/luhouru" target="_blank" class="poshytip  facebook" title="Facebook"></a>
 					<a href="https://twitter.com/luhouru" target="_blank" class="poshytip  twitter" title="Twitter"></a>
                     <a href="skype:chris.luho?chat" class="poshytip  skype" title="Skype"></a>
 					<a href="http://twitch.tv/luhouru" target="_blank" class="poshytip  forrst" title="Twitch"></a>
@@ -106,7 +106,7 @@
 	         		<div id="tweets" class="footer-col tweet">
 	         			<h6>Contact Me</h6>
 	         			<p>Email:<br>
-                        luk@chrisluk.im<br><br>
+                        luho@chrisluk.im<br><br>
                         </p>
 	         		</div>
 	         	</div>
